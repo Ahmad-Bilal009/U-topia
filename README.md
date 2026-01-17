@@ -59,6 +59,18 @@ npm install
 npm run dev
 ```
 
+To access admin panel login with this credentials and then use this link
+```bash
+admin@admin.com
+```
+```bash
+123456
+```
+
+Link:- 
+```bash
+http://localhost:3000/director
+```
 ## Features
 
 - Generate unique referral links
